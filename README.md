@@ -1,4 +1,4 @@
-# Kernel Mobile API
+# Kernel Pi API
 
 ### Authors
 
